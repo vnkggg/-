@@ -3,7 +3,7 @@
 /* 环境变量配置（多号用换行分隔，支持两种格式）
  * 变量名：ZXSH
  * 安卓推荐格式1（仅传版本号）：Authorization#version（示例：eyJxxx1#1.2.6）
- * ioa推荐格式2（完整UA）：Authorization#完整User-Agent（示例：eyJxxx2#GZHealth/1.2.6 (cn.yyzqsh.android; build:124; Android 14.2.0) okhttp/4.10.）
+ * ios推荐格式2（完整UA）：Authorization#完整User-Agent（示例：eyJxxx2#GZHealth/1.2.6 (cn.yyzqsh.android; build:124; Android 14.2.0) okhttp/4.10.）
  * 多账号配置：每个账号单独一行，空行会自动过滤
 ＊/
 
